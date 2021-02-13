@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPChat", "TCPChat\TCPChat.csproj", "{91248A52-DD48-4DAE-947C-C5F2BFF07BE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPClient", "TCPClient\TCPClient.csproj", "{78F8283B-EDFA-478E-B0C4-1A8B7BC3C373}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91248A52-DD48-4DAE-947C-C5F2BFF07BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91248A52-DD48-4DAE-947C-C5F2BFF07BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91248A52-DD48-4DAE-947C-C5F2BFF07BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91248A52-DD48-4DAE-947C-C5F2BFF07BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78F8283B-EDFA-478E-B0C4-1A8B7BC3C373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F8283B-EDFA-478E-B0C4-1A8B7BC3C373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F8283B-EDFA-478E-B0C4-1A8B7BC3C373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F8283B-EDFA-478E-B0C4-1A8B7BC3C373}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {232CF786-68A1-4B7A-A427-53083292B9FC}
+	EndGlobalSection
+EndGlobal
